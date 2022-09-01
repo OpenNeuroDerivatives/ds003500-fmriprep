@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "sub-219/anat/sub-219_acq-a_T1w.nii.gz",
+    "sub-219/anat/sub-219_acq-b_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
