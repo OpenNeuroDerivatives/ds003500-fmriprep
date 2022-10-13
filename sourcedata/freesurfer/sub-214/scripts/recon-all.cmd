@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/JJ/qk/MD5E-s21608--e8abe4e03c746e8edeca5b27b42b051a.cmd/MD5E-s21608--e8abe4e03c746e8edeca5b27b42b051a.cmd
+/annex/objects/MD5E-s21608--e8abe4e03c746e8edeca5b27b42b051a.cmd

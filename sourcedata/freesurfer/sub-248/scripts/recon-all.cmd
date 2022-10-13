@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/zf/Jw/MD5E-s21624--0db16f30a967b29e9c8279678cfdb0bc.cmd/MD5E-s21624--0db16f30a967b29e9c8279678cfdb0bc.cmd
+/annex/objects/MD5E-s21624--0db16f30a967b29e9c8279678cfdb0bc.cmd

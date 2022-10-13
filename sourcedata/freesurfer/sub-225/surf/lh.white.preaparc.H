@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Xp/65/MD5E-s549491--12b1826dc876b53c80b7d4661f3b50c7.H/MD5E-s549491--12b1826dc876b53c80b7d4661f3b50c7.H
+/annex/objects/MD5E-s549491--12b1826dc876b53c80b7d4661f3b50c7.H

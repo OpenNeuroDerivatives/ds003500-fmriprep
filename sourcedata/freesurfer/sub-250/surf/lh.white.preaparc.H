@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Q5/Xg/MD5E-s620167--8c1447a33e19a2fd8e15cce13dbe600b.H/MD5E-s620167--8c1447a33e19a2fd8e15cce13dbe600b.H
+/annex/objects/MD5E-s620167--8c1447a33e19a2fd8e15cce13dbe600b.H

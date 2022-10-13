@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/xp/Z2/MD5E-s499767--f20436eaf96e367e9d1d221114becbd6.K/MD5E-s499767--f20436eaf96e367e9d1d221114becbd6.K
+/annex/objects/MD5E-s499767--f20436eaf96e367e9d1d221114becbd6.K

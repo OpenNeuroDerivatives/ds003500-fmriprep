@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/32/VW/MD5E-s327--fc306de0c5c3dbec50603be51e201c74.txt/MD5E-s327--fc306de0c5c3dbec50603be51e201c74.txt
+/annex/objects/MD5E-s327--fc306de0c5c3dbec50603be51e201c74.txt
