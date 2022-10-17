@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s24963--96b53e3c0b3c9ddfeae7c0f3d81f944c.cmd
+../../../../.git/annex/objects/Xx/pX/MD5E-s24963--96b53e3c0b3c9ddfeae7c0f3d81f944c.cmd/MD5E-s24963--96b53e3c0b3c9ddfeae7c0f3d81f944c.cmd
