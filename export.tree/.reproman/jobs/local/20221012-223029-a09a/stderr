@@ -1,0 +1,15 @@
+Warning: Permanently added 'c135-133' (ED25519) to the list of known hosts.
+WARNING (10/13/22 15:58:10): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4916923.hostlist.95oi135i to get hosts
+starting job on c135-133
+starting job on c135-134
+starting job on c142-072
+starting job on c142-073
+starting job on c160-023
+starting job on c160-024
+starting job on c161-022
+starting job on c162-201
+starting job on c175-182
+starting job on c176-003
+slurmstepd: error: *** JOB 4916923 ON c135-133 CANCELLED AT 2022-10-13T19:55:34 ***
+Terminated
