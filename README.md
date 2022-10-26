@@ -11,6 +11,10 @@ This boilerplate text is released under [CC0](https://creativecommons.org/public
 
 Jobs were submitted using [ReproMan](https://reproman.readthedocs.io/en/latest/) in order to improve reproducibility. Output and error logs can be found in .reproman/jobs/local/.
 
+## Known Issues
+
+sub-229 did not complete successfully and was thus removed. For more info, see https://github.com/poldracklab/tacc-openneuro/issues/38.
+
 ## Acknowledgements
 
 These derivatives were generated on the [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) Frontera computing system [1] through their [Pathways allocation](https://frontera-portal.tacc.utexas.edu/allocations/). This work was also funded by the [NIH BRAIN Initiative](https://grantome.com/grant/NIH/R24-MH117179-03).
